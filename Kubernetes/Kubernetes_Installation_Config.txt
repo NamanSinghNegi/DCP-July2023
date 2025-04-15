@@ -1,3 +1,5 @@
+# Ubuntu linux vm is used
+
 #Kube-Master(Controller)  - VM 
 #	Kube-Worker1
 #	Kube-Worker2 
