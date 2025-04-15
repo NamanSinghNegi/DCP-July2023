@@ -1,5 +1,8 @@
 # Ubuntu linux vm is used
 
+Please refer this to install kubernetes in ubuntu 22.04 :   https://hbayraktar.medium.com/how-to-install-kubernetes-cluster-on-ubuntu-22-04-step-by-step-guide-7dbf7e8f5f99
+
+
 #Kube-Master(Controller)  - VM 
 #	Kube-Worker1
 #	Kube-Worker2 
